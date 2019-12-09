@@ -10,7 +10,7 @@ IMA consists of the following parts:
 
 This repository contains the core Ethereum "Mainnet" contracts that facilitate ETH, ERC20, and ERC721 transfers between Ethereum and SKALE chains.
 
-### Deployed Contracts - (IMA v1.0.0-develop.29)
+### Deployed Contracts - (IMA v1.0.0-develop.38)
 ---------------
 ##### Ethereum Rinkeby
 - deposit_box_address: `0x8835472123c26a62bEB1346b9729d5900509156c`
@@ -22,13 +22,13 @@ This repository contains the core Ethereum "Mainnet" contracts that facilitate E
 - message_proxy_mainnet_address: `0x8106D9CFC8F69bBe30794E39d8F7A41E4c2ccaE7`
 
 ##### Ethereum Kovan
-- deposit_box_address: `0x8B2E113cd1C6D6fa4d5c15737EbF9EC9c13bed06`
-- lock_and_data_for_mainnet_address: `0x064495975a125F8644974D8e00FCb8E34eE4Cb82`
-- lock_and_data_for_mainnet_erc20_address: `0x37144b554c78cD9B8a239c72FB986406939Ecc1c`
-- lock_and_data_for_mainnet_erc721_address: `0x5533C831e0c9fBa86F246eAc76806D8A768ac6Db`
-- erc20_module_address: `0x619a40dE99D68D49807772E163A66D2365f44C50`
-- erc721_module_address: `0xDc6465C5e28E1e2C830c7a0fF464FAe4Db687F5b`
-- message_proxy_mainnet_address: `0x76d4e8341Cd8565D714D0b21987746dA45dc330c`
+- deposit_box_address: `0x6453e022E51787033Dc1667A4DeDfFC15B8d9d8E`
+- lock_and_data_for_mainnet_address: `0xe6D13555BacC93A6239173D7d27d325BFD3B12bE`
+- lock_and_data_for_mainnet_erc20_address: `0x52c2F183B79939453AAD7d405859A7d471F517aE`
+- lock_and_data_for_mainnet_erc721_address: `0x51788ECD78AFfCD7495b7c49eDab04aEfC65Bd21`
+- erc20_module_address: `0xb2fcDB599B465F89D4f76e53bdfd6388803b7fC7`
+- erc721_module_address: `0x438AA8e87B92F37bB4DEeD39bEBf23E772209beD`
+- message_proxy_mainnet_address: `0x0C87dB5f7173713517fd87b169B9E090F0B9909A`
 
 ### Documentation
 ---------------
